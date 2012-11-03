@@ -1,0 +1,14 @@
+ul.bosawas-thumbs {
+  list-style: none;
+  display: inline-block;
+  vertical-align: top;
+}
+div.bosawas-full {
+  display: inline-block;
+  vertical-align: top;
+  width: 200px;
+  padding: 10px;
+}
+img.bosawas-full {
+  width: 100%;
+}
